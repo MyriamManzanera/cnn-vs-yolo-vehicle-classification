@@ -29,6 +29,6 @@ Si este prototipo se llevara a un entorno de producción real, las recomendacion
 * **Desplegar la CNN a medida SI:** El proyecto requiere inferencia en dispositivos de muy bajo coste (Edge Computing, cámaras antiguas) donde la memoria RAM y la capacidad de cómputo son extremadamente limitadas. La CNN demostró ser robusta y muy ligera.
 * **Apostar por YOLOv8 SI:** La empresa planea escalar el proyecto. YOLO es la elección estratégica por su velocidad de inferencia superior y su enorme facilidad para realizar *fine-tuning* si mañana el cliente decide añadir 50 nuevas clases de vehículos al catálogo. Solo requeriría asegurar una entrada de vídeo con mayor resolución para desbloquear su potencial de detección espacial.
 
-* ## 👩‍💻 Autora
+## 👩‍💻 Autora
 **Myriam Manzanera Hernández**
-* [Mi perfil de LinkedIn]: www.linkedin.com/in/myriammanzanera
+* [Mi perfil de LinkedIn]: (www.linkedin.com/in/myriammanzanera)
