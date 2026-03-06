@@ -31,4 +31,4 @@ Si este prototipo se llevara a un entorno de producción real, las recomendacion
 
 ## 👩‍💻 Autora
 **Myriam Manzanera Hernández**
-* [Mi perfil de LinkedIn]: (www.linkedin.com/in/myriammanzanera)
+* [Mi perfil de LinkedIn](https://www.linkedin.com/in/myriammanzanera)
